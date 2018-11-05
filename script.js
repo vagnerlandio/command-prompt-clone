@@ -332,8 +332,3 @@ updateOsInfo();
 createLine();
 updateLine();
 listening();
-
-/* Tarefas
-- Adicionar um autoscroll
-- Mover o cursor entre o input
-*/
